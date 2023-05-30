@@ -1,6 +1,6 @@
 import java.util.UUID;
 
-public class iwantcreatebrench {
+public class Iwantcreatebrench {
 String bot ;
 String name ;
 Long Id;
